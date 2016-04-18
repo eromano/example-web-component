@@ -1,0 +1,19 @@
+{
+    "name": "my-repo",
+    "version": "0.0.0",
+    "description": "awesome-element",
+    "license": "MIT",
+    "main": "dist/awesome-element.html",
+    "keywords": [
+        "polymer",
+        "web-components"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies":{
+            "polymer": "Polymer/polymer#^1.4.0"
+    }
+}
