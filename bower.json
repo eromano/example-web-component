@@ -1,6 +1,6 @@
 {
-    "name": "my-repo",
-    "version": "0.0.0",
+    "name": "example-web-component",
+    "version": "0.0.1",
     "description": "awesome-element",
     "license": "MIT",
     "main": "dist/awesome-element.html",

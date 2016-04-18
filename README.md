@@ -1,20 +1,20 @@
-# &lt;example-web-componet&gt;
+# &lt;example-web-component&gt;
 
 > awesome-element
 
 ## Demo
 
-[Check it live!](http://eromano.github.io/example-web-componet)
+[Check it live!](http://eromano.github.io/example-web-component)
 
 ## Install
 
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install example-web-componet --save
+$ bower install example-web-component --save
 ```
 
-Or [download as ZIP](https://github.com/eromano/example-web-componet/archive/master.zip).
+Or [download as ZIP](https://github.com/eromano/example-web-component/archive/master.zip).
 
 ## Usage
 
@@ -27,7 +27,7 @@ Or [download as ZIP](https://github.com/eromano/example-web-componet/archive/mas
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/example-web-componet/dist/awesome-element.html">
+    <link rel="import" href="bower_components/example-web-component/dist/awesome-element.html">
     ```
 
 3. Start using it!
@@ -86,7 +86,7 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/eromano/example-web-componet/releases).
+For detailed changelog, check [Releases](https://github.com/eromano/example-web-component/releases).
 
 ## License
 
