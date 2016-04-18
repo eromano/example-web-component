@@ -36,24 +36,6 @@ Or [download as ZIP](https://github.com/eromano/example-web-componet/archive/mas
     <awesome-element></awesome-element>
     ```
 
-## Options
-
-Attribute     | Options     | Default      | Description
----           | ---         | ---          | ---
-`foo`         | *string*    | `bar`        | Lorem ipsum dolor.
-
-## Methods
-
-Method        | Parameters   | Returns     | Description
----           | ---          | ---         | ---
-`unicorn()`   | None.        | Nothing.    | Magic stuff appears.
-
-## Events
-
-Event         | Description
----           | ---
-`onsomething` | Triggers when something happens.
-
 ## Development
 
 In order to run it locally you'll need to fetch some dependencies and a basic server setup.
