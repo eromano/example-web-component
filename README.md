@@ -1,20 +1,20 @@
-# &lt;my-repo&gt;
+# &lt;example-web-componet&gt;
 
 > awesome-element
 
 ## Demo
 
-[Check it live!](http://my-user.github.io/my-repo)
+[Check it live!](http://my-user.github.io/example-web-componet)
 
 ## Install
 
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install my-repo --save
+$ bower install example-web-componet --save
 ```
 
-Or [download as ZIP](https://github.com/my-user/my-repo/archive/master.zip).
+Or [download as ZIP](https://github.com/my-user/example-web-componet/archive/master.zip).
 
 ## Usage
 
@@ -27,7 +27,7 @@ Or [download as ZIP](https://github.com/my-user/my-repo/archive/master.zip).
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/my-repo/dist/awesome-element.html">
+    <link rel="import" href="bower_components/example-web-componet/dist/awesome-element.html">
     ```
 
 3. Start using it!
@@ -104,7 +104,7 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/my-user/my-repo/releases).
+For detailed changelog, check [Releases](https://github.com/my-user/example-web-componet/releases).
 
 ## License
 
