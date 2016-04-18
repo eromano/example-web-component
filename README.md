@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Check it live!](http://my-user.github.io/example-web-componet)
+[Check it live!](http://eromano.github.io/example-web-componet)
 
 ## Install
 
@@ -14,7 +14,7 @@ Install the component using [Bower](http://bower.io/):
 $ bower install example-web-componet --save
 ```
 
-Or [download as ZIP](https://github.com/my-user/example-web-componet/archive/master.zip).
+Or [download as ZIP](https://github.com/eromano/example-web-componet/archive/master.zip).
 
 ## Usage
 
@@ -104,7 +104,7 @@ In order to run it locally you'll need to fetch some dependencies and a basic se
 
 ## History
 
-For detailed changelog, check [Releases](https://github.com/my-user/example-web-componet/releases).
+For detailed changelog, check [Releases](https://github.com/eromano/example-web-componet/releases).
 
 ## License
 
